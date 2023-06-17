@@ -1,0 +1,50 @@
+*{
+    background-color: black;
+    color: white;
+    margin: 10px 10px;
+}
+form{
+    display: flex;
+    justify-content: space-between;
+    margin-left: -10px;
+}
+input{
+    min-width: 25vw;
+    padding: 10px;
+    margin-top: 10px;
+}
+button{
+    background-color: white;
+    color: black;
+    padding: 10px 40px;
+    font-size: medium;
+    margin-top: -5px;
+}
+#heading1{
+    margin-top: 60px;
+    margin-bottom: 20px;
+}
+#heading2{
+    margin-top: 30px;
+}
+#Employees{
+    color: #787671;
+    margin-top: 30px;
+}
+.success{
+    color: green;
+}
+.error{
+    color: red;
+}
+td{
+    padding: 10px 20px;
+}
+tr{
+    outline: thin solid;
+    border-radius: 5px;
+}
+table {
+    border-collapse:separate; 
+    border-spacing: 0 1em;
+}
